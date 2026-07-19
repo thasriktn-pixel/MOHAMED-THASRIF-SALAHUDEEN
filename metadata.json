@@ -1,0 +1,6 @@
+{
+  "name": "TS Workshop Manager",
+  "description": "Professional automotive workshop management application featuring job cards, inventory, invoices, accounts, and AI service recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
